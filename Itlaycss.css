@@ -1,46 +1,46 @@
 @keyframes slideshow {
     0% {
-        background-image: url('itlay&home/italy.png');
+        background-image: url('italy&home/italy.png');
     }
 
     10% {
-        background-image: url('itlay&home/italy col.png');
+        background-image: url('italy&home/italy col.png');
     }
 
     20% {
-        background-image: url('itlay&home/italy b.png');
+        background-image: url('italy&home/italy b.png');
     }
 
     30% {
-        background-image: url('itlay&home/italy florence.png');
+        background-image: url('italy&home/italy florence.png');
     }
 
     40% {
-        background-image: url('itlay&home/italy fountain.png');
+        background-image: url('italy&home/italy fountain.png');
     }
 
     50% {
-        background-image: url('itlay&home/italy grand canal.png');
+        background-image: url('italy&home/italy grand canal.png');
     }
 
     60% {
-        background-image: url('itlay&home/italy pantheon.png');
+        background-image: url('italy&home/italy pantheon.png');
     }
 
     70% {
-        background-image: url('itlay&home/italy pisa.png');
+        background-image: url('italy&home/italy pisa.png');
     }
 
     80% {
-        background-image: url('itlay&home/italy vatican.png');
+        background-image: url('italy&home/italy vatican.png');
     }
 
     90% {
-        background-image: url('itlay&home/italy view.png');
+        background-image: url('italy&home/italy view.png');
     }
 
     100% {
-        background-image: url('itlay&home/italy.png');
+        background-image: url('italy&home/italy.png');
     }
 }
 
@@ -166,4 +166,5 @@ li {
 }
 .topbtn:hover{
     background-color: #01579b;
+
 }
